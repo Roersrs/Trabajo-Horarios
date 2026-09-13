@@ -13,9 +13,3 @@ Pasos:
 4. Abre el proyecto en NetBeans y configura Tomcat 10.1.x.
 5. Clean and Build y luego Run.
 6. Login de prueba: admin / admin123
-
-El proyecto NO usa APIs REST ni fetch(). Los formularios JSP envían directamente a Servlets por POST.
-Reglas de horarios:
-- No cruces para el mismo docente.
-- No cruces para el mismo curso.
-- Un docente no puede superar su max_horas_diarias (máximo 8 desde el formulario).
