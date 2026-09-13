@@ -1,4 +1,4 @@
-BARRIO 13 - versión sencilla (sin API REST)
+BARRIO 13 - versión 1
 
 Requisitos:
 - Java 21
